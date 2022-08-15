@@ -1,0 +1,23 @@
+body {
+    background-color: #212121 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color:#dbdbdb !important;
+}
+
+h1 {font-weight:600;}
+
+p { color: #aaaaaa !important;}
+li {color: #aaaaaa !important;}
+footer.bg-dark .footer-bottom {border: 0px solid #fff;}
+.blog-area .blog-items .item .info { background: #242323; padding: 30px;}
+a {color: #dbdbdb;}
+.top-bar-area {border-bottom: 0px solid #fff !important; background: #212121;}
+.default-padding.bottom-less {padding-top: 100px; padding-bottom: 90px;}
+.sub-text {font-size: 24px; line-height: 36px;}
